@@ -1,0 +1,44 @@
+.bar-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    width: 25px;
+}
+
+.bar {
+    transition: 0.3s;
+    background-color: hsl(10, 79%, 65%);
+    border-radius: 5px;
+}
+
+.mon:hover {
+    background-color: aliceblue;
+
+}
+
+.tue:hover {
+    background-color: yellowgreen;
+}
+
+.wed:hover {
+    background-color: red;
+}
+
+.thu:hover {
+    background-color: peru;
+}
+
+.fri:hover {
+    background-color: purple;
+}
+
+.sat:hover {
+    background-color: lightblue;
+}
+
+.sun:hover {
+    background-color: lightseagreen;
+}
+
+
+

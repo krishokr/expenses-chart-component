@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300;400&display=swap');
+
+.App {
+  width: 100vw;
+  font-family: Ubuntu;
+  background-color: hsl(27, 66%, 92%);
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+@media (max-width: 375px) {
+  .App {
+    height: fit-content;
+  }
+}
+
+
