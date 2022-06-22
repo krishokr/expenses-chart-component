@@ -1,8 +1,0 @@
-.balance-component {
-    display: flex;
-    justify-content: space-between;
-    padding: 5% 8%;
-    border-radius: 10px;
-    background-color: hsl(10, 79%, 65%);
-    margin-bottom: 3%;
-}
